@@ -1,12 +1,12 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/wagnerlim/hakuban/releases/download/v0.1.1/hakuban_0.1.1_windows_amd64.zip",
+            "url": "https://github.com/wagnerlim/hakuban/releases/download/v0.1.2/hakuban_0.1.2_windows_amd64.zip",
             "bin": [
                 "hakuban.exe"
             ],
-            "hash": "9fa81e03a3bb58eb0cc03b9d5b18c03d087e7619525f2b5c5e7d83a70533f8ca"
+            "hash": "35b468abd72dbc6bad4067dff931ccf4e9161c1aff8902b20afd9098541b67a3"
         }
     },
     "homepage": "https://wagnerlim.github.io/hakuban/",
